@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VetConecta.Api/VetConecta.Api.csproj" />
+    <Project Path="src/VetConecta.Application/VetConecta.Application.csproj" />
+    <Project Path="src/VetConecta.Domain/VetConecta.Domain.csproj" />
+    <Project Path="src/VetConecta.Infrastructure/VetConecta.Infrastructure.csproj" />
+  </Folder>
+</Solution>

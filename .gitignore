@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+*.user
+appsettings.*.local.json
+
+# Archivos locales y paquetes de entrega
+.env
+.env.*
+!.env.example
+*.rar
+*.zip
+# database/BD_VETCONECTA.bak se incluye para la entrega académica.
+publish/
